@@ -1,0 +1,30 @@
+<h1> Inscriez-vous</h1>
+
+<body class= "text-center">
+    <form action= <%= gossips_path %> method="POST">
+        Email adress : <input type="email" name="email">
+    </form>
+    <p>         </p>
+
+    <form action= <%= gossips_path %> method="POST">
+        Password :
+        <input type="password" name="confirmation_password">
+
+        Comfirmation password :
+        <input type="password" name="confirmation_password">
+
+    </form>
+    <p>         </p>
+
+    <form action= <%= gossips_path %> method="POST">
+        Country :
+        <input type="text" name="country">
+    </form>
+    <p>         </p>
+
+    <form action= <%= gossips_path %> method="POST">
+        <input type="submit" value="valider">
+    </form>
+
+</body>
+
