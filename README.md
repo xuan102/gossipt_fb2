@@ -6,12 +6,9 @@ L'appli pour balancer vos pires ragots aux yeux de tous et vous faire des amis..
 
 ## :wrench: Installation 
 
-### Configuration
-Entrez les commandes suivantes dans votre terminal préféré :
 
-`git clone git@github.com:luca-montaigut/TGP_rails.git`
 
-`cd TGP_rails`
+Apres avoir telecharge les dossiers, mettez-vous dans le dossier et :`
 
 `bundle install`
 
