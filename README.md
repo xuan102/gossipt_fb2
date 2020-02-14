@@ -7,7 +7,7 @@ L'appli pour balancer vos pires ragots aux yeux de tous et vous faire des amis..
 ## :wrench: Installation 
 
 ### Configuration
-Entrez les commandes suivantes dans votre terminal préféré :
+
 
 `
 Apres avoir telecharge les dossiers, mettez-vous de-dans, puis :
